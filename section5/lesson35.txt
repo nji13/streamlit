@@ -1,0 +1,22 @@
+JSONを理解しよう
+    APIでリクエストを送る際、レスポンスで帰ってきたデータを扱う際はJSONの理解が必要
+
+    JSON（JavaScriptObjectNotation）はJavaScriptの表記方法を元にしたデータフォーマット
+    XMLと同様のテキストベースのデータフォーマット
+        JSONの前にはXMLという形式が一般的
+    
+    XMLとJSOMの違い
+        ・XMLは...タグを用いてデータ構造を表現  HTMLに似てる
+            <html>
+             <data>
+              <id>111</id>
+              <name>yamada</name>
+             </data>
+            </html>
+        ・JSONは...XMLよりも少ないデータ量で構造を表現できる
+            {
+             ("id":"111", "name":"yamada")
+            }
+
+    JSONの書き方は{}の中にキーとバリューをコロンで区切って記述する（pythonの辞書型と同じ）
+        ***キーはダブルクォーテーションで囲む、シングルクォーテーションだとエラーになる

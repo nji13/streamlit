@@ -1,0 +1,5 @@
+APIとは
+    ApplicationProgrammingInterface
+    他社が提供するサービスないの情報や機能を扱えるようにする仕組み
+
+    APIを叩く = リクエスト

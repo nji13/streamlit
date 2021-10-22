@@ -1,0 +1,9 @@
+WebAPIの概要
+    ・物体検出
+        ComputerVisionAPI
+    ・YouTubeのデータ取得
+        YouTubeDataAPI
+    ・音声生成
+        Text-to-SpeechAPI
+    
+    これを使用する

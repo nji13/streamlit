@@ -1,0 +1,7 @@
+WebAPIについて
+    WebAPI = HTTP／HTTPベースで実現するAPI、Webを解して使用するAPI
+    API = WebAPI    と思っても大丈夫
+
+    WebAPI以外のAPI
+        例：「Win32」マイクロソフトが定めたWindows用のAPI
+        例：「TAPI（TelephonyAPI）」コンピュータ電話統合用のAPI
