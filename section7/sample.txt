@@ -1,1 +1,0 @@
-Cloud Text-to-Speech用のサンプル分になります。
